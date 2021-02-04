@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_list"
+        android:title="영화목록" />
+    <item
+        android:id="@+id/menu_rate"
+        android:title="영화 평점 순 모아보기" />
+    <item
+        android:id="@+id/menu_title"
+        android:title="영화 제목 검색" />
+    <item
+        android:id="@+id/menu_genre"
+        android:title="영화 장르 검색" />
+    <item
+        android:id="@+id/menu_introduce"
+        android:title="관리자 정보" />
+    <item
+        android:id="@+id/menu_exit"
+        android:title="앱 종료" />
+</menu>
